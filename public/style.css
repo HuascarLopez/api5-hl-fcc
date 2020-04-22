@@ -4,9 +4,8 @@ html,body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #fff;
-  background-image: linear-gradient(to top, #fff, #ddeeff);
-	text-align: center;
+	background-color: background-color: #edf5ff;
+  background-image: linear-gradient(to top, #fff, #ddeeff)	text-align: center;
 	line-height: 1.4em;
   height: 95%;
   width: 95%;
